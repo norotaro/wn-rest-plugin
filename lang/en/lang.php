@@ -1,6 +1,6 @@
 <?php return [
     'plugin' => [
         'name' => 'REST',
-        'description' => 'Utilidades para crear endpoints Rest',
+        'description' => 'Utilities for creating Rest endpoints.',
     ],
 ];
