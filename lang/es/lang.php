@@ -1,6 +1,6 @@
 <?php return [
     'plugin' => [
-        'name' => 'Rest',
-        'description' => 'Utilidades para crear endpoints Rest'
-    ]
+        'name' => 'REST',
+        'description' => 'Utilidades para crear endpoints Rest en WinterCMS.',
+    ],
 ];
