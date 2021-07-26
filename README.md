@@ -1,6 +1,6 @@
 # WinterCMS REST utils plugin
 
-Utilities for creating Rest endpoints.
+Utilities for creating Rest endpoints in WinterCMs.
 
 
 ## Installation

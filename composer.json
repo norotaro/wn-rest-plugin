@@ -1,0 +1,28 @@
+{
+    "name": "norotaro/wn-rest-plugin",
+    "desciption": "Utilities for creating Rest endpoints in WinterCMS.",
+    "type": "winter-plugin",
+    "keywords": [
+        "winter",
+        "wintercms",
+        "winter-plugin",
+        "plugin",
+        "rest",
+        "api"
+    ],
+    "homepage": "https://github.com/norotaro/wn-rest-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nelson Otazo",
+            "email": "nelsonotazo+support@gmail.com",
+            "homepage": "https://nelson.otazo.com.py",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "nelsonotazo+support@gmail.com@gmail.com",
+        "issues": "https://github.com/norotaro/wn-rest-plugin/issues",
+        "source": "https://github.com/norotaro/wn-rest-plugin"
+    }
+}
