@@ -1,0 +1,6 @@
+plugin:
+    name: 'norotaro.rest::lang.plugin.name'
+    description: 'norotaro.rest::lang.plugin.description'
+    author: Norotaro
+    icon: wn-icon-link
+    homepage: ''
